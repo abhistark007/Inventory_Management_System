@@ -1,5 +1,7 @@
 # Inventory_Management_System
-An Inventory Management System using python \n
+An Inventory Management System using python 
+
+
 use:
 updateDatabase(data)=> use this function to update the dataBase after making changes. it takes json as an argument
 purchaseItem(itemName,quantity)=> use this function to purchase an item and quantity you want to purchase it takes 2 arguments itemName should be in string and quantity should be integer
