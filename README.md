@@ -1,7 +1,7 @@
 # Inventory_Management_System
 
 
-**About the Repository?**
+<h1>About the Repository?</h1>
 
 
 An Inventory Management System using python made during ETG internship
