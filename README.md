@@ -18,3 +18,7 @@ purchaseItem(itemName,quantity)=> use this function to purchase an item and quan
 
 
 addItemToInventory(data,productID)=> use this function to add item in the inventory and updates it automatically it takes 2 argument data takes dictionary type and productID should be in integer
+
+
+<h2>Other Useful Links:</h2>
+LinkedIn=> [https://www.linkedin.com/in/abhi-kumar-bb84851b1/]
