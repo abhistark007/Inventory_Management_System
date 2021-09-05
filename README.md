@@ -1,14 +1,14 @@
 # Inventory_Management_System
 
 
-##About the Repository?
+<h2>About the Repository? </h2>
 
 
 An Inventory Management System using python made during ETG internship
 
 
 
-##How to use the database?
+<h2>How to use the database? </h2>
 
 
 updateDatabase(data)=> use this function to update the dataBase after making changes. it takes json as an argument
